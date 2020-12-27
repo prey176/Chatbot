@@ -3,6 +3,10 @@
 This project has been contributed by the following :-
 Preyansh Rastogi, Shivam Shanker, Abhishek Rajgaria and Anuj Verma.
 
+## Application Code
+
+![Chatbot](https://user-images.githubusercontent.com/44090539/103181753-bb6cde80-48ca-11eb-9cae-6c9e227412a5.png)
+
 ## Backend Code
 
 ### server.py 
